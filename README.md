@@ -2,7 +2,7 @@
 
 ![preview](.github/preview.png)
 
-[>>>>>>>>>> Click here to give a look <<<<<<<<<<](https://opsxandao.github.io/login-netflix/)
+[>>>>>>>>>> Click here to give a look <<<<<<<<<<](https://opsxandao.github.io/Login-Netflix//)
 
 ## Sobre o projeto/ About the project
 
